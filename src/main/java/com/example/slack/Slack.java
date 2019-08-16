@@ -1,4 +1,4 @@
-package com.bayer.datahub.library;
+package com.example.slack;
 
 import net.gpedro.integrations.slack.SlackApi;
 import net.gpedro.integrations.slack.SlackMessage;
